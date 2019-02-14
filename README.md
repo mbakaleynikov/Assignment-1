@@ -11,8 +11,3 @@ It can even do all of this ***without making any typos***! With many news sites 
 We must keep in mind that while AI is a powerful tool, it is not infallible, and human minds are still necessary for the tool to be used correctly.
 
 ### Thank you for reading.
-
-### Comments by Jeph
-I have seen bots on Reddit summarize posted links in the commends with surprising
-accuracy and readability. It is very spooky and this article reminded me of
-that.
